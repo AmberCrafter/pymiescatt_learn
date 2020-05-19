@@ -1,0 +1,8 @@
+# 不同步置git檔案列表
+docker
+docker-volume
+**/__pycache__
+config.yaml
+**.npy
+docker-compose.yaml
+Run_docker.bat
